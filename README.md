@@ -4,12 +4,9 @@
 
 <hr />
 
-<h2 align="center"><strong>YOUR NAME HERE</strong></h2>
+<h2 align="center"><strong>Hafiz Muhammad Hamdan Aziz</strong></h2>
 <h4 align="center">💻 Full Stack Web Developer | React & Node.js Enthusiast</h4>
 
-<p align="center">
-  <img src="https://your-profile-pic-url.com" alt="profile" width="200" style="border-radius: 20px;" />
-</p>
 
 ---
 
@@ -35,9 +32,8 @@
 ### 🌐 <strong>Connect with Me</strong>
 
 <p>
-  📧 <strong>Email:</strong> yourname@example.com <br />
-  🔗 <strong>LinkedIn:</strong> <a href="https://linkedin.com/in/your-profile" target="_blank">linkedin.com/in/your-profile</a> <br />
-  🌐 <strong>Portfolio:</strong> <a href="https://your-portfolio.com" target="_blank">your-portfolio.com</a>
+  📧 <strong>Email:</strong> hamdanaziz330@gmail.com <br />
+  🔗 <strong>LinkedIn:</strong> <a href="[https://linkedin.com/in/your-profile](https://www.linkedin.com/in/hamdan-aziz-2b5ab4303/)" target="_blank">linkedin.com/in/your-profile</a> <br />
 </p>
 
 ---
@@ -48,14 +44,10 @@
   <strong>Frontend:</strong> React, Bootstrap, HTML5, CSS3, JavaScript <br />
   <strong>Backend:</strong> Node.js, Express <br />
   <strong>Database:</strong> MySQL <br />
-  <strong>Tools:</strong> Git, GitHub, Postman
+  <strong>Tools:</strong> Git, GitHub
 </p>
 
 ---
-
-### ⚡ <strong>Fun Fact</strong>
-
-<p>I enjoy debugging almost as much as I enjoy building — it's like solving a puzzle with code. 😄</p>
 
 ---
 

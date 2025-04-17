@@ -1,16 +1,28 @@
-## Hi there 👋
+👋 Hi there!
+Hafiz Muhammad Hamdan Aziz
+Full Stack Web Developer | React & Node.js Enthusiast
 
-<!--
-**Hamdan-Aziz123/Hamdan-Aziz123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I’m a Computer Science student passionate about full stack web development. I love turning ideas into responsive, user-friendly web applications using modern technologies like React, Node.js, Express, and MySQL.
 
-Here are some ideas to get you started:
+🔧 What I’m Working On:
+Building dynamic web apps with clean UI and secure backend systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Exploring new tools and frameworks in the JavaScript ecosystem.
+
+Improving skills in database design and user authentication.
+
+🚀 Notable Projects:
+ReUSE Mart – Second-hand product platform (React + Node.js)
+
+Ticket Management System – Simple issue tracking solution
+
+Pluck A Book – Online bookstore with cart, admin panel, and MySQL backend
+
+🤝 Let’s Connect:
+📧 Email: your-email@example.com
+
+🔗 LinkedIn
+🌐 Portfolio: https://your-portfolio-link.com
+
+⚡ Fun Fact:
+I’m always up for building something cool and learning by doing!
